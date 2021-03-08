@@ -1,0 +1,6 @@
+nav {text-decoration-line: none;}
+.container {max-width:720px:}
+.form-control {padding: 5em 5em 5em;margin-left: 60px; max-width: 720px;}
+.form-label {font-weight: bold;}
+.form-group {padding-top: 5em 5em 5em;}
+.btn-group {justify-content: center;}
